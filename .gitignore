@@ -1,0 +1,57 @@
+### STS ###
+.apt_generated
+.factorypath
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*/out/
+
+### eclipse ###
+.settings/
+.project
+.classpath
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+.nb-gradle/
+out/
+
+### Gradle ###
+.gradle/
+/gradle/
+gradlew*
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Maven ###
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+
+### Temp ###
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+### System ###
+.DS_Store
+Thumbs.db
+bin
+build
+.class
+
+### Others ###
+
